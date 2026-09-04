@@ -99,16 +99,18 @@ A machine-learning-based stock analytics platform for Indian/NSE stocks.
 
 ---
 
-## 🤖 Jarvis Chatbot
+## 🤖 Jarvis Voice Assistant
 
-An AI-based chatbot project designed to interact with users and perform useful assistant-style tasks.
+A voice-activated virtual assistant built with Python that responds to the wake word **"Jarvis"** and performs tasks using voice commands.
 
-- Built a conversational chatbot using Python
-- Worked with user input and response generation
-- Implemented assistant-style functionality
-- Practiced Python automation and AI concepts
+- Used SpeechRecognition for voice input
+- Implemented text-to-speech using pyttsx3 and gTTS
+- Added web browsing and music playback
+- Fetched and read news headlines using NewsAPI
+- Integrated OpenAI GPT-3.5-turbo for answering queries
+- Used Pygame for audio playback
 
-**Technologies:** Python, AI, Natural Language Processing
+**Technologies:** Python, OpenAI GPT-3.5-turbo, SpeechRecognition, pyttsx3, gTTS, Pygame, Requests, Webbrowser
 
 [View Project](https://github.com/Tanish212/Jarvis---Voice-Activated-Virtual-Assistant-.git)
 
@@ -131,19 +133,22 @@ A content-based movie recommendation system that recommends movies based on simi
 
 ---
 
-## 🌾 WeFarm Hackathon Project
+## 🤖 Auto-Reply AI Chatbot
 
-A data-driven agriculture project focused on helping farmers using machine learning and agricultural data.
+An AI-powered chatbot that analyzes chat history and 
+automatically generates humorous, roast-style responses 
+using OpenAI’s GPT-3.5-turbo model.
 
-- Worked on crop disease prediction
-- Explored weather analysis
-- Considered satellite imagery and heatmap-based analysis
-- Included chatbot-based assistance
-- Focused on applying AI to real-world agricultural problems
+- Automated chat interaction using PyAutoGUI
+- Retrieved and analyzed chat history
+- Detected messages from a specific user
+- Generated funny responses using OpenAI
+- Used clipboard operations to copy and send messages
+- Automated mouse and keyboard interactions
 
-**Technologies:** Python, Machine Learning, Data Analysis, Streamlit
+**Technologies:** Python, OpenAI GPT-3.5-turbo, PyAutoGUI, Pyperclip
 
-[View Project](https://github.com/Tanish212/WeFarm.git)
+[View Project](https://github.com/Tanish212/AUTO-REPLY-AI-CHATBOT.git)
 
 ---
 
